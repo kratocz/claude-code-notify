@@ -4,6 +4,10 @@ A [Claude Code](https://claude.ai/claude-code) plugin that sends desktop notific
 
 Never miss a paused session again — get notified even when you're in another window.
 
+## Preview
+
+![claude-code-notify notifications](screenshot.png)
+
 ## What it does
 
 | Event | When | Notification example |
