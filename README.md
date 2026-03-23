@@ -1,4 +1,4 @@
-# claude-code-notify
+# desktop-notify
 
 A [Claude Code](https://claude.ai/claude-code) plugin that sends desktop notifications whenever Claude is waiting for your response or needs your approval to run a tool.
 
@@ -6,7 +6,7 @@ Never miss a paused session again — get notified even when you're in another w
 
 ## Preview
 
-![claude-code-notify notifications](screenshot.png)
+![desktop-notify notifications](screenshot.png)
 
 ## What it does
 
@@ -45,8 +45,8 @@ brew install jq
 ## Installation
 
 ```
-/plugin marketplace add kratocz/claude-code-notify
-/plugin install claude-code-notify@kratocz
+/plugin marketplace add kratocz/claude-plugins
+/plugin install desktop-notify@kratocz
 ```
 
 ## How it works
@@ -62,7 +62,7 @@ The `PermissionRequest` notification includes the tool name and a short preview 
 
 ## Contributing
 
-Issues and PRs are welcome at [github.com/kratocz/claude-code-notify](https://github.com/kratocz/claude-code-notify).
+Issues and PRs are welcome at [github.com/kratocz/desktop-notify](https://github.com/kratocz/desktop-notify).
 
 ## License
 
