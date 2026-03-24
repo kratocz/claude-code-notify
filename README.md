@@ -83,6 +83,10 @@ Both hooks run **asynchronously** so they never slow down Claude Code.
 
 The `PermissionRequest` notification includes the tool name and a short preview of the command or file path, so you immediately know what needs your attention.
 
+## Acknowledgements
+
+Sound notification support was inspired by [Radim Klaška](https://github.com/radimklaska).
+
 ## Contributing
 
 Issues and PRs are welcome at [github.com/kratocz/desktop-notify](https://github.com/kratocz/desktop-notify).
